@@ -1,5 +1,0 @@
-My assignment was to predict customer churn for a company. Because this was a classification task, classifying between churn and not churn, I decided to do a gridsearch on the
-Logistic Regression, K nearest neighbors, and Gaussian Naive Bayes Scikitlearn models. Initially, my results were pretty bad
-
-the best model I could get was with Gaussian Naive Bayes.
-<img src="Images/round1.png/">
